@@ -61,7 +61,7 @@ export default function QuestionPage({ next }) {
             onMouseEnter={moveNoButton}
             onMouseMove={moveNoButton}
           >
-            No?Click karke toh dikhao
+            No?Click karke batao
           </motion.button>
       </div>
     </motion.div>
